@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm gordaum</h1>
-- 🔭 I’m currently working on **PvP Framework for FiveM.**
+<h1 align="center">Sup, i'm gordaum</h1>
+- Working on PvP Framework for FiveM and discord bots.
 
-- 🌱 I’m currently learning **React.**
-
-- 💬 Ask me about **Java Script.**
-
-- 📫 How to reach me **Reach me on discord, gﾒﾒ#3649**
+- Reach me on discord, gﾒﾒ#3649
 
 
 <h3 align="left">Languages and Tools:</h3>
