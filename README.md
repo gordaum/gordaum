@@ -1,7 +1,7 @@
 <h1 align="center">Sup, i'm gordaum</h1>
 - Working on PvP Framework for FiveM and discord bots.
 
-- Reach me on discord, gﾒﾒ#3649
+- Reach me on discord, gﾒﾒ#3649.
 
 
 <h3 align="left">Languages and Tools:</h3>
